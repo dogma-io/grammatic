@@ -1,0 +1,29 @@
+{
+  "name": "grammatic",
+  "version": "0.0.1",
+  "description": "Library for compile time translations.",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dogma-io/grammatic.git"
+  },
+  "keywords": [
+    "grammar",
+    "i18n",
+    "internationalization",
+    "internationalize",
+    "language",
+    "translate",
+    "translation",
+    "translator"
+  ],
+  "author": "Matthew Dahl <https://github.com/dogma-io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dogma-io/grammatic/issues"
+  },
+  "homepage": "https://github.com/dogma-io/grammatic#readme"
+}
